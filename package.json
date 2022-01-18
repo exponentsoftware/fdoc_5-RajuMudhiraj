@@ -1,0 +1,24 @@
+{
+  "name": "fdoc_5-rajumudhiraj",
+  "version": "1.0.0",
+  "description": "1. Use the countries API to fetch data about countries. (5 pt)",
+  "main": "1_fetchCountriesApi.js",
+  "scripts": {
+    "start": "1_fetchCountriesApi.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentsoftware/fdoc_5-RajuMudhiraj.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exponentsoftware/fdoc_5-RajuMudhiraj/issues"
+  },
+  "homepage": "https://github.com/exponentsoftware/fdoc_5-RajuMudhiraj#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
